@@ -6,4 +6,4 @@ and monitor network traffic. It intercepts the data packets that are transmitted
 allowing users to inspect the data and understand the flow of information.
 
 ### Here's Snippet code
-![Uploading Screenshot from 2024-07-15 16-14-09.png…]()
+![Screenshot from 2024-07-15 16-14-09](https://github.com/user-attachments/assets/b957d244-9aed-4f7b-9f4d-74f672917191)
