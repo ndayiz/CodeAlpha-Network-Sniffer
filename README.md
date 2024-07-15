@@ -1,5 +1,12 @@
 # CodeAlpha-Network-Sniffer
 
+# Task 1: BASIC NETWORK SNIFFER
+Build a network sniffer in Python that
+captures and analyzes network traffic. This
+project will help you understand how data
+flows on a network and how network packets
+are structured.
+
 ## What is network sniffer?
 A network sniffer, also known as a packet sniffer, is a tool used to capture, analyze, 
 and monitor network traffic. It intercepts the data packets that are transmitted over a network,
