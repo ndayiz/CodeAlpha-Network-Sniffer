@@ -13,4 +13,3 @@ allowing users to inspect the data and understand the flow of information.
 Now the tool starteg generating packets as seen on image below
 ![Screenshot from 2024-07-15 16-56-47](https://github.com/user-attachments/assets/df1ab5b6-9cb1-40b7-9690-2e1cc363c4e7)
 
-here you can see a short video.
